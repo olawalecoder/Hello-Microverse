@@ -1,11 +1,10 @@
-# Hello MicroVerse
-This project was used for learning how to use linter
+# Hello Microverse
+This project is used for learning linters
 
-# Built With
-- Html
-- Css
-- Linter
+# Tools Used
+- html
+- css
 
 # Author
-- Github: @olawalecoder
-- Twitter: @olawalecoder
+Github: @olawalecoder
+Twitter: @olawalecoder
